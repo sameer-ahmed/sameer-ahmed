@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align = "left">
+<img src="https://img.shields.io/github/followers/sameer-ahmed?label=Followers&style=social" alt= "GitHub Followers">
+<img src="https://img.shields.io/github/stars/sameer-ahmed?affiliations=OWNER%2CCOLLABORATOR&style=social" alt = "Sameer Ahmed's stars"></br>
+<img src="https://github-readme-stats.vercel.app/api?username=sameer-ahmed&show_icons=true&theme=flag-india" alt = "SameerAhmed's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-ahmed&layout=compact&show_icons=true&theme=flag-india" alt = "Most used Languages">
+</div>
